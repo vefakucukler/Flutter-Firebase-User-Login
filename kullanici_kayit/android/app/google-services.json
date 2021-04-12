@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "968446390149",
+    "project_id": "fir-userapp-4872d",
+    "storage_bucket": "fir-userapp-4872d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968446390149:android:359534b3d768b9db511eec",
+        "android_client_info": {
+          "package_name": "com.example.kullanici_kayit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968446390149-9s4qo5tdo3bkoq9e3lu9rno2ah3jpi8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb_0wjATojBLwEmDiUGtt-_3HsMXiA07k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968446390149-9s4qo5tdo3bkoq9e3lu9rno2ah3jpi8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
